@@ -10,7 +10,7 @@ We are an open community! If you want to join the effort just browse through the
 
 ### Initial community efforts
 
-- <a href="http://github.com/AMOCcommunity/MOC-transports">MOC-transports</a> repository for access AMOC array data.
+- <a href="http://github.com/AMOCcommunity/amocarray">amocarray</a> repository for access AMOC array data.
 <!--
 
 **Here are some ideas to get you started:**
